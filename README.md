@@ -1,4 +1,4 @@
-# Module_1_Challenge
+# Module 1 Challenge
 Bootcamp: UTA-VIRT-DATA-PT-04-2023-U-LOLC-MTTH
 
 <ins><b>Files submitted for Module 1 Challenge:</b></ins><br>
